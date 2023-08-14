@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from "vue-router";
 
-import invoiceIndex from '../components/invoices/index.vue'
+import invoiceIndex from '../components/invoices/index.vue';
+
 import notFound from '../components/invoices/NotFound.vue';
 
 
